@@ -1,8 +1,8 @@
 ## This repository will show several common "Design Pattern" example
 ***
 ##Reference
-####[`GPCODER`](https://gpcoder.com)
-####[`REFACTORING`](https://refactoring.guru)
+####[GPCODER](https://gpcoder.com)
+####[REFACTORING](https://refactoring.guru)
 ***
 ###Creational Pattern
 ####1. Singleton
