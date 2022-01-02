@@ -1,4 +1,4 @@
-package creational.flyweight;
+package structuaral.flyweight;
 
 import java.time.Duration;
 import java.util.ArrayList;

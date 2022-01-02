@@ -1,4 +1,4 @@
-package creational.flyweight;
+package structuaral.flyweight;
 
 public class Soldier implements ISoldier {
     private final String name; // Intrinsic State

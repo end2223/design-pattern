@@ -1,4 +1,4 @@
-package creational.flyweight;
+package structuaral.flyweight;
 
 public class Context {
     private String id;
